@@ -1,0 +1,4 @@
+ This is write.
+ this is appendthis is create and write filehow to read file , this is new file
+ with appended file
+ with appended file
